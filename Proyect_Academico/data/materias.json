@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Estadistica",
+    "codigo": "1",
+    "creditos": 4,
+    "cupos": 7
+  },
+  {
+    "id": 2,
+    "nombre": "Modelamiento",
+    "codigo": "1234",
+    "creditos": 4,
+    "cupos": 9
+  },
+  {
+    "id": 3,
+    "nombre": "Ecuaciones",
+    "codigo": "5843",
+    "creditos": 4,
+    "cupos": 12
+  }
+]

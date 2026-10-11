@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arellys",
+    "apellido": "Pazmiño",
+    "email": "jpazmi@gmail.com",
+    "carnet": "1234",
+    "carrera": "Ingenieria De Software"
+  },
+  {
+    "id": 2,
+    "nombre": "Romina",
+    "apellido": "Pino",
+    "email": "pino@gmail.com",
+    "carnet": "1589",
+    "carrera": "Educacion Inicial"
+  },
+  {
+    "id": 3,
+    "nombre": "Orfelina",
+    "apellido": "Villicela",
+    "email": "villi@gmail.com",
+    "carnet": "4869",
+    "carrera": "Ingenieria Industrial"
+  }
+]
