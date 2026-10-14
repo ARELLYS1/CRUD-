@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "venta_id": 1,
+    "monto": 2.5,
+    "pagado_con": 2.5,
+    "cambio": 0.0,
+    "metodo": "EFECTIVO",
+    "fecha": "2026-10-14"
+  },
+  {
+    "id": 2,
+    "venta_id": 2,
+    "monto": 4.0,
+    "pagado_con": 4.0,
+    "cambio": 0.0,
+    "metodo": "EFECTIVO",
+    "fecha": "2026-10-14"
+  },
+  {
+    "id": 3,
+    "venta_id": 3,
+    "monto": 1.0,
+    "pagado_con": 1.0,
+    "cambio": 0.0,
+    "metodo": "EFECTIVO",
+    "fecha": "2026-10-14"
+  },
+  {
+    "id": 4,
+    "venta_id": 3,
+    "monto": 1.3,
+    "pagado_con": 2.0,
+    "cambio": 0.7,
+    "metodo": "EFECTIVO",
+    "fecha": "2026-10-14"
+  }
+]
